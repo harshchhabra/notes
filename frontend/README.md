@@ -2,7 +2,7 @@
 
 This project is a full-stack notes application that allows users to create, search, and list notes. Each note is associated with a random cat fact retrieved from an external API. The project is built using:
 
-![ScreenRecording2024-09-06at8 42 58PM-ezgif com-crop](https://github.com/user-attachments/assets/6aecb9dc-c06c-4f43-a9ee-9dbdf33476b6)
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b77502fd-a71f-475e-8a86-93ecf755550e)
 
 ### Frontend:
 
