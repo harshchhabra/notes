@@ -20,7 +20,6 @@ To get started, clone this repository and follow the instructions below to set u
 - [MongoDB](https://www.mongodb.com/) running locally or a cloud instance (e.g., MongoDB Atlas)
 
 - Make sure MongoDB is running.
-- Navigate to the server directory.
 - Create an .env file at the root of the server directory with the following contents:
 
 ```
